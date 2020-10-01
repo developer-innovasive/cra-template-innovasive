@@ -18,5 +18,8 @@
     "template",
     "template.json"
   ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "author": "Innovasive's developers"
 }
