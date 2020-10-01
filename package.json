@@ -8,6 +8,10 @@
     "typescript",
     "innovasive"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/developer-innovasive/cra-template-innovasive.git"
+  },
   "description": "The base TypeScript template for Create React App from Innovasive's developer.",
   "main": "template.json",
   "license": "MIT",
