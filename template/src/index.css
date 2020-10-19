@@ -1,7 +1,5 @@
 @import 'innovasive-ui-react/src/styles/index.css';
 
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
 @layer base {}
+
+@layer utilities {}
