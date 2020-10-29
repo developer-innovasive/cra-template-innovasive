@@ -5,5 +5,5 @@
 For example:
 
 ```sh
-npx create-react-app my-app --template innovasive
+npx create-react-app my-app --scripts-version 3.4.4 --template innovasive
 ```
